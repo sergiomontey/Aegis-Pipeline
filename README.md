@@ -167,7 +167,7 @@ VIEWING PERMITTED: This code is available for viewing, educational, and
 evaluation purposes only.
 
 RESTRICTIONS:
-- No commercial use without explicit written permission from MONTEYcodes
+- No commercial use without explicit written permission from MonteyAI LLC
 - No redistribution, modification, or derivative works
 - No reverse engineering or decompilation
 - No use in production environments without valid license
